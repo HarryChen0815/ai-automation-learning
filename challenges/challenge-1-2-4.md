@@ -2,9 +2,14 @@
 
 
 **The Task**: Use the @workspace command to find where the "API Gateway" defines its rate-limiting or routing rules.
+
 **The Goal**: Locate the configuration file (e.g., microservices/api-gateway/src/config.ts) and ask: "How many requests per minute are allowed before the Gateway returns a 429 error?"
+
 **Submission**: Post the file path and the rate limit value you found in our workshop channel.
-**Professional Tip**: Discovery is not a one-time event. Use Slash Commands like /explainevery time you encounter a new microservice function to build a mental map of the system's "Quality DNA".
+
+**Professional Tip**: Discovery is not a one-time event. Use Slash Commands like /explain every time you encounter a new microservice function to build a mental map of the system's "Quality DNA".
+
+
 
 
 ## @workspace find where the "API Gateway" defines its rate-limiting or routing rules, and tell me how many requests per minute are allowed before the API Gateway returns a 429 error?
